@@ -2,10 +2,10 @@
 [GP'23] Chart Data Extraction
 
 
-<h1>Introduction<\h1>
+<h3>Introduction</h3>
 Chart images are commonly used for data visualization. Automatically reading the chart values is a key step for chart content understanding. Charts have a lot of variations in style (e.g. bar chart, line chart, pie chart and etc.), which makes pure rule-based data extraction methods difficult to handle. Analysis of these data can bring us huge benefits, including scientific document processing and reading experience enhancement for visually impaired people. However, it is well-known that inferring key insights from charts can be quite challenging and time-consuming.
 
-<h1>Objective<\h1>
+<h3>Objective</h3>
 <ol>
 <li> Extract charts from documents.
 <li> Train a model that accurately classifies chart types.
@@ -15,15 +15,17 @@ Chart images are commonly used for data visualization. Automatically reading the
 <li> Train an image captioning model for non-chart images in documents.
 <\ol>
 
-<h1>Under The Supervision Of:<\h1>
+<h3>Under The Supervision Of:</h3>
 <ul>
 <li> Dr Salsabil Amin
 <li> TA Mirna Al-Shetairy
-<\ul>
+</ul>
 
-<h1>Team Members:<\h1>
+<h3>Team Members:</h3>
 <ul>
-<li> 
-<li> 
-<\ul>
-
+  <li> <a href="https://github.com/yasminFadel">Yasmin Fadel</a>
+  <li> <a href="https://github.com/nurhaankhaled">Nurhan Khaled</a>
+  <li> <a href="https://github.com/Rana-Rabie">Rana Rabie</a>
+  <li> <a href="https://github.com/LamaElMalatawy">Lama El Malatawy</a>
+  <li> <a href="https://github.com/FarahEhab">Farah Ehab</a>
+</ul>
