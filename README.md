@@ -1,6 +1,4 @@
 # Chartlytics
-[GP'23] Chart Data Extraction
-
 
 <h3>Introduction:</h3>
 Chart images are commonly used for data visualization. Automatically reading the chart values is a key step for chart content understanding. Charts have a lot of variations in style (e.g. bar chart, line chart, pie chart and etc.), which makes pure rule-based data extraction methods difficult to handle. Analysis of these data can bring us huge benefits, including scientific document processing and reading experience enhancement for visually impaired people. However, it is well-known that inferring key insights from charts can be quite challenging and time-consuming.
