@@ -13,12 +13,12 @@ Chart images are commonly used for data visualization. Automatically reading the
 <li> Develop a user-friendly application that is accessible for everyone.
 <li> Solve the problem of OCR and screen readers where they fail to read chart content from images.
 <li> Train an image captioning model for non-chart images in documents.
-<\ol>
+</ol>
 
 <h3>Under The Supervision Of:</h3>
 <ul>
 <li> Dr Salsabil Amin
-<li> TA Mirna Al-Shetairy
+<li> TA<a href="https://github.com/mshetairy"> Mirna Al-Shetairy</a>
 </ul>
 
 <h3>Team Members:</h3>
@@ -26,6 +26,8 @@ Chart images are commonly used for data visualization. Automatically reading the
   <li> <a href="https://github.com/yasminFadel">Yasmin Fadel</a>
   <li> <a href="https://github.com/nurhaankhaled">Nurhan Khaled</a>
   <li> <a href="https://github.com/Rana-Rabie">Rana Rabie</a>
+  <li> <a href="https://github.com/FarahEhab">Farah Ehab</a>  
+  <li> <a href="https://github.com/rowym">Rowym Mohamed</a>
   <li> <a href="https://github.com/LamaElMalatawy">Lama El Malatawy</a>
-  <li> <a href="https://github.com/FarahEhab">Farah Ehab</a>
+  
 </ul>
